@@ -37,6 +37,9 @@ const Nav = () => {
         <Button>
           Get Started
         </Button>
+        <Button>
+         read more
+        </Button>
          
       </ul>
       </div>
